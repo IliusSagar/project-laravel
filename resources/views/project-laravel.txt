@@ -4,3 +4,11 @@ Install Process:
 ----------------------------------------------------------------------------
 Bootstrap Navbar Setup:
 -------------------------------------------------------------------------------
+Routes Link Setup:
+** welcome.blade.php**
+** web.php**
+** php artisan make:controller ExpenseController
+** ExpenseController.php**
+** add.blade.php**
+** manage.blade.php**
+-----------------------------------------------------------------------------
