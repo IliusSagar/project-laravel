@@ -12,3 +12,11 @@ Routes Link Setup:
 ** add.blade.php**
 ** manage.blade.php**
 -----------------------------------------------------------------------------
+Manage Expense Data Fetch::
+** php artisan make:model Expense -m**
+** create_expense_table.php**
+** Models/Expense.php**
+** php artisan migrate
+** ExpenseController.php**
+** routes/api.php**
+-------------------------------------------------------------------
