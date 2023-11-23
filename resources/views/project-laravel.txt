@@ -2,3 +2,5 @@ Install Process:
 ** composer create-project laravel/laravel project-laravel
 ** php artisan migrate
 ----------------------------------------------------------------------------
+Bootstrap Navbar Setup:
+-------------------------------------------------------------------------------
